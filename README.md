@@ -58,7 +58,8 @@ drug-review-analysis/
 ├── sentiment_analysis.ipynb        # Sentiment analysis experiments (BERT, Gemini, Groq, text summarization)
 ├── BP_review_analysis.ipynb        # Text summarization experiments
 ├── Drug_review.ipynb               # Statistical insights (Top drugs, conditions, word-cloud, TF-IDF, Topic Modeling)
-└── bigram_analysis.ipynb           # Bigram analysis
+├── bigram_analysis.ipynb           # Bigram analysis
+└── tf-idf.py                        # This function helps identify the most important words across all documents in the corpus by aggregating their TF-IDF scores.
 ```
 ### Prerequisites
 
